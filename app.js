@@ -35,7 +35,7 @@ function checkAge(userName, age) {
 
 checkAge(userName, age);
 
-Exercise 3 Section
+//Exercise 3 Section
 console.log("EXERCISE 3:\n==========");
 
 let x = prompt("Enter your 'X' coordinate");
